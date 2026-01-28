@@ -122,3 +122,16 @@ body {
     border: 2px solid #3882F6;
     border-radius: 8px;
 }
+
+/* Testimonial section styling */
+.testimonial {
+    background: #E5E7EB;
+    font-style: italic;
+}
+
+.testimonial-text {
+    padding: 100px;
+    font-size: 36px;
+    font-weight: 200;
+    color: #1F2937
+}
