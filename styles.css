@@ -170,3 +170,16 @@ body {
     border: 2px solid #F9FAF8;
     border-radius: 6px;
 }
+
+/* Footer stylings */
+footer {
+    padding: auto;
+    height: 100px;
+    text-align: center;
+    background: #1F2937;
+    color: #F9FAF8;
+}
+
+footer p {
+    padding-top: 40px;
+}
